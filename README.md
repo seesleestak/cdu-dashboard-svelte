@@ -5,7 +5,7 @@ A [Svelte](https://svelte.dev/)-based home dashboard inspired by the aesthetic o
 ## Get Started
 
 ```bash
-npm i && npm start
+npm i && npm run dev
 ```
 
 ## Modules
